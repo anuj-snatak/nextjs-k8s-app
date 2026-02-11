@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: your-dockerhub-username/nextjs-k8s-app:latest # Isse apni image se replace karein
+        image: anujjain12/nextjs-k8s-app:latest # Isse apni image se replace karein
         ports:
         - containerPort: 3000
